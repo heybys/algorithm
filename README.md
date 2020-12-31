@@ -1,2 +1,2 @@
 # algorithm
-Algorithm Solving
+Algorithm Study History
