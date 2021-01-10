@@ -2,9 +2,3 @@
 /bin/
 .settings/
 .metadata/
-
-# Eclipse Path
-.project
-
-#Eclipse Java Development Tools
-.classpath
