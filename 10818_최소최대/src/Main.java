@@ -4,6 +4,11 @@ public class Main {
 
 	static Scanner scan = new Scanner(System.in);
 
+	/*
+	 * INPUT 5 20 10 35 30 7
+	 * 
+	 * OUTPUT 7 35
+	 */
 	public static void main(String[] args) {
 		int N = scan.nextInt();
 		int max = 0;

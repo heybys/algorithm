@@ -6,6 +6,12 @@ public class Main {
 
 	static Scanner scan = new Scanner(System.in);
 
+	/*
+	 * INPUT 150 266 427
+	 * 
+	 * OUTPUT 3 1 0 2 0 0 0 2 0 0
+	 */
+
 	public static void main(String[] args) {
 
 		int A = scan.nextInt();
